@@ -14,7 +14,7 @@ In your README file, you can include the following information:
 - The client code uses the abstract factory to create matching garments without knowledge of concrete classes.
 
 **Usage:**
-- The driver class, `GarmentSimulator`, demonstrates how to use the Abstract Factory pattern to create matching garments for different families and variants.
+- The driver class, demonstrates how to use the Abstract Factory pattern to create matching garments for different families and variants.
 - You can modify the selected factory to create garments based on the customer's choice.
 
 **Benefits:**
