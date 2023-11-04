@@ -21,4 +21,3 @@ In your README file, you can include the following information:
 - The Abstract Factory pattern ensures that garments are always consistent within a family.
 - It allows for easy addition of new products or families without modifying the core code.
 - Code remains clean, maintainable, and extensible.
-![image](https://github.com/mazenkapadi/Mod10HW/assets/73120392/d3f56551-d57b-4e6c-b3aa-e59dfc908af6)
