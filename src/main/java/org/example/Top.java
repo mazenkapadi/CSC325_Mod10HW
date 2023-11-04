@@ -1,2 +1,5 @@
-package org.example;public interface Top {
+package org.example;
+
+public interface Top {
+    void createTop();
 }

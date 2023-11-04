@@ -1,2 +1,7 @@
-package org.example;public class GarmentFactory {
+package org.example;
+
+public interface GarmentFactory {
+    Top createTop();
+    Pants createPants();
+    Shoes createShoes();
 }

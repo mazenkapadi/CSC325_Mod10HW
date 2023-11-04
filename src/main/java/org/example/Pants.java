@@ -1,2 +1,5 @@
-package org.example;public interface Pants {
+package org.example;
+
+public interface Pants {
+    void createPants();
 }
